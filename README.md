@@ -1,13 +1,14 @@
 # convnext-image-classifier
 Image classification using a convolutional neural network with ConvNext architecture.
 
-# Abstract:
-TODO
-# What is ConvNext Architecture?
+### Abstract:
 TODO
 
-# Applications:
+### What is ConvNext Architecture?
 TODO
 
-# Hyperparameter Analysis + Training/Testing Results:
+### Applications:
+TODO
+
+### Hyperparameter Analysis + Training/Testing Results:
 TODO
